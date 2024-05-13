@@ -39,7 +39,7 @@ body {
  
 .company-description {
     font-family: 'KG First Time In Forever', sans-serif;
-    font-size: 32px;
+    font-size: 38px;
     color: #EEE0EC;
     text-align: center;
 }
@@ -50,7 +50,7 @@ body {
 
 .company-description .highlight {
     font-family: 'Lumie', sans-serif;
-    font-size: 36px;
+    font-size: 46px;
     font-weight: bold;
     color: rgba(204, 0, 79, 0.8);
     text-shadow: 
